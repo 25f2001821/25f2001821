@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD,4B0082,7B2FBE,5C16C3&height=200&section=header&text=Divyansh%20Kushwaha&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20GenAI%20Developer%20%7C%20MLOps%20Practitioner&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD,4B0082,7B2FBE,5C16C3&height=200&section=header&text=Divyansh%20Kushwaha&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20MLOps%20%7C%20Generative%20AI&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=false&width=750&lines=Building+and+Deploying+End-to-End+AI+Systems+%F0%9F%A7%A0;Engineering+RAG+Pipelines+%26+Agentic+Workflows+%E2%9A%A1;DVC+%C2%B7+MLflow+%C2%B7+Docker+%C2%B7+GitHub+Actions+%F0%9F%90%B3;Pursuing+AI+Engineer+Role+as+a+Fresher+%F0%9F%8C%90)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=false&width=750&lines=Building+and+Deploying+End-to-End+AI+Systems+%F0%9F%A7%A0;RAG+Pipelines+%26+Agentic+Workflows+with+LangGraph+%E2%9A%A1;DVC+%C2%B7+MLflow+%C2%B7+Docker+%C2%B7+GitHub+Actions+%F0%9F%90%B3;Seeking+AI%2FML+Internships+and+Entry-Level+Roles+%F0%9F%8C%90)](https://git.io/typing-svg)
 
 </div>
 
@@ -41,19 +41,23 @@
 
 <img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=Div7anshKushwaha&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=8B5CF6&icon_color=7C3AED&text_color=C4B5FD&rank_icon=github" />
 
-I am an AI Engineer in the making — currently pursuing a **BS in Data Science & Applications from IIT Madras**, with a strong foundation in classical ML, deep learning, and generative AI.
+I am a Data Science student at **IIT Madras** (BS in Data Science & Applications) focused on **ML engineering and Generative AI**.
 
-My engineering philosophy is rooted in building **systems that leave the notebook** — not just training a model, but making it reproducible, testable, containerized, and deployable. I approach every project with a product mindset: who uses this, why it matters, and how it performs under real-world conditions.
+I like building systems that leave the notebook: reproducible, tested, containerized, and deployed. My projects cover three areas:
 
-I recently shipped an end-to-end MLOps pipeline — **DVC → MLflow → Docker → GitHub Actions CI/CD → AWS EC2** — that automatically reproduces, tests, promotes, and redeploys a model on every push. Alongside that, I'm specializing in **GenAI + Agentic AI Engineering** — RAG pipelines, LangGraph stateful agents, MCP protocol, CRAG, Self-RAG, and LLM observability with LangSmith.
+- **MLOps** — an end-to-end pipeline (**DVC → MLflow → Docker → GitHub Actions CI/CD → AWS EC2**) that reproduces, tests, promotes, and redeploys a model on every push.
+- **RAG** — a multilingual video and meeting assistant (Whisper / Sarvam AI, Groq, LangChain, ChromaDB) with transcript-grounded Q&A.
+- **Agentic AI** — a LangGraph blog-writing agent that decides when to research, plans, writes, reviews, and revises.
+
+I'm currently learning advanced RAG evaluation, MCP, and LLM observability, and I'm looking for my first internship.
 
 <br/>
 
 **↳ Open To**
 
 ```
-AI Engineer  ·  GenAI Developer  ·  MLOps Engineer  ·  LLM Engineer
-Full Time  ·  Internship  ·  Remote  ·  Hybrid  ·  Bhopal  ·  Pan-India
+AI/ML Intern  ·  GenAI Developer  ·  MLOps  ·  LLM Engineer
+Internship  ·  Full Time  ·  Remote  ·  Hybrid  ·  Bhopal  ·  Pan-India
 ```
 
 ---
@@ -62,42 +66,43 @@ Full Time  ·  Internship  ·  Remote  ·  Hybrid  ·  Bhopal  ·  Pan-India
 
 <div align="center">
 
-### Languages
-[![Languages](https://skillicons.dev/icons?i=python,java,bash,markdown&theme=dark)](https://skillicons.dev)
+### Languages & Backend
+[![Backend](https://skillicons.dev/icons?i=python,fastapi,flask,postgres,mysql&theme=dark)](https://skillicons.dev)
 
-### Frontend
-[![Frontend](https://skillicons.dev/icons?i=html,css,js,vue&theme=dark)](https://skillicons.dev)
+### ML & Deep Learning
+[![ML](https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark)](https://skillicons.dev)
 
-### Backend & Databases
-[![Backend](https://skillicons.dev/icons?i=fastapi,flask,postgres,mysql,mongodb,redis&theme=dark)](https://skillicons.dev)
+`scikit-learn` · `XGBoost` · `Pandas` · `NumPy` · `Hugging Face`
+
+### Generative AI & Agents
+`LangChain` · `LangGraph` · `ChromaDB` · `Whisper` · `Sarvam AI` · `Groq` · `Gemini` · `Pydantic` · `Streamlit`
 
 ### MLOps, Cloud & Tooling
-[![DevOps](https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,githubactions,linux,vscode,jupyter&theme=dark)](https://skillicons.dev)
+[![DevOps](https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,linux,vscode&theme=dark)](https://skillicons.dev)
 
-`DVC` · `MLflow` · `DagsHub` · `Gunicorn`
+`DVC` · `MLflow` · `DagsHub` · `Gunicorn` · `pytest`
 
 </div>
 
 ---
 
-## ◈ AI / ML Expertise
+## ◈ Skills Overview
 
 <div align="center">
 
-| Domain | Proficiency | Details |
+| Area | Level | Tools |
 |:---|:---:|:---|
-| Classical Machine Learning | ███████████ Expert | Linear/Logistic Regression, SVM, KNN, Decision Trees, Random Forest, XGBoost, LightGBM, CatBoost, Optuna |
-| Deep Learning | ██████████░ Advanced | ANN, CNN, RNN, LSTM, GRU, Transformers, Attention Mechanisms, Encoder-Decoder |
-| Generative AI & LLMs | ██████████░ Proficient | LangChain, Prompt Engineering, RAG Pipelines, Contextual Compression, Multi-query, MMR |
-| Agentic AI | █████████░░ Proficient | LangGraph, Sequential/Parallel/Conditional/Iterative Workflows, HITL, Memory, Tool-Use |
-| MLOps & Deployment | ██████████░ Proficient | DVC, MLflow, DagsHub, Docker, GitHub Actions CI/CD, AWS S3/EC2, Model Registry & Promotion |
-| MCP Protocol | ████████░░░ Developing | Model Context Protocol — Architecture, Local/Remote Servers, MCP Clients |
-| Advanced RAG | ████████░░░ Developing | CRAG (Corrective RAG), Self-RAG, RAG using LangGraph, RAGAS Evaluation |
-| LLM Observability | ████████░░░ Developing | LangSmith — Tracing, Monitoring, Agent Debugging, Evaluation |
-| Unsupervised Learning | ███████████ Expert | KMeans, DBSCAN, GMM, Hierarchical Clustering, t-SNE |
-| Data Engineering | ██████████░ Advanced | Pandas, NumPy, Feature Engineering, EDA, Imbalanced Data |
-| SQL & Analytics | ███████████ Expert | Window Functions, CTEs, Correlated Subqueries, psycopg2, PostgreSQL |
-| Visualization | ██████████░ Advanced | Matplotlib, Seaborn, Plotly, Power BI, Excel |
+| MLOps & Deployment | Hands-on (live project) | DVC, MLflow, DagsHub, Docker, GitHub Actions CI/CD, AWS S3/EC2, model registry & promotion |
+| Generative AI & RAG | Hands-on (2 projects) | LangChain, ChromaDB, HuggingFace embeddings, Groq, recursive chunking, structured outputs (Pydantic) |
+| Agentic AI | Hands-on (BlogForge) | LangGraph — conditional routing, stateful workflows, review/revise loops, tool use |
+| Backend & APIs | Hands-on | Flask, FastAPI, Streamlit, Gunicorn, pytest |
+| Speech & Multilingual | Hands-on | Whisper (local, CUDA), Sarvam AI (Hindi/Hinglish), FFmpeg audio processing |
+| Classical ML & Data | Coursework & practice | Regression, SVM, KNN, trees, ensembles, XGBoost, LightGBM, KMeans, DBSCAN, PCA, Pandas, NumPy, feature engineering |
+| Deep Learning | Coursework & self-study | ANN, CNN, RNN, LSTM, Transformers, attention |
+| SQL & Analytics | Coursework & practice | PostgreSQL, window functions, CTEs, psycopg2 |
+| Visualization | Coursework & practice | Matplotlib, Seaborn, Plotly, Power BI, Excel |
+| Advanced RAG & Evaluation | Learning | CRAG, Self-RAG, RAGAS |
+| MCP & LLM Observability | Learning | Model Context Protocol, LangSmith |
 
 </div>
 
@@ -110,7 +115,7 @@ Full Time  ·  Internship  ·  Remote  ·  Hybrid  ·  Bhopal  ·  Pan-India
 
 <br/>
 
-An end-to-end MLOps system that takes a text-classification model from a reproducible training pipeline to a live, auto-deployed API. Every push to `master` reproduces the pipeline, runs tests, promotes the model, builds a Docker image, and redeploys it on AWS EC2 — with no manual steps.
+An end-to-end MLOps system that takes a text-classification model from a reproducible training pipeline to a live, auto-deployed API. Every push to `master` reproduces the pipeline, runs tests, promotes the model, builds a Docker image, and redeploys it on AWS EC2 — with no manual steps. The model is a deliberately simple baseline (Bag-of-Words + Logistic Regression); the focus is the pipeline around it.
 
 | Attribute | Details |
 |:---|:---|
@@ -126,6 +131,48 @@ An end-to-end MLOps system that takes a text-classification model from a reprodu
 
 </details>
 
+<details open>
+<summary><b>◉ AI Video & Meeting Assistant — Multilingual RAG Application</b></summary>
+
+<br/>
+
+A Streamlit application that turns uploaded audio and video into transcripts, summaries, action items, key decisions, and open questions, then lets you chat with the transcript through retrieval-augmented Q&A.
+
+| Attribute | Details |
+|:---|:---|
+| **Stack** | Streamlit · Whisper · Sarvam AI · Groq · LangChain · HuggingFace embeddings · ChromaDB · FFmpeg |
+| **Transcription** | English via local Whisper (CUDA-accelerated on an RTX 3050); Hindi/Hinglish via Sarvam AI; audio converted to 16 kHz mono WAV and chunked |
+| **Analysis** | Title, summary, action items, key decisions, and open questions generated by Groq LLMs |
+| **RAG Q&A** | Recursive chunking → embeddings → ChromaDB retrieval → answers grounded in the transcript |
+| **Tip** | On the hosted demo, direct file upload is the most reliable input — YouTube downloads can be blocked by cloud hosts |
+| **Live Demo** | [![Live](https://img.shields.io/badge/Live-Demo-22c55e?style=flat-square&logo=streamlit&logoColor=white)](https://ai-video-assistant-xhwahbksce37k7qbwmb4ie.streamlit.app/) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-6A0DAD?style=flat-square&logo=github)](https://github.com/Div7anshKushwaha/ai-video-assistant) |
+
+<br/>
+
+</details>
+
+<details open>
+<summary><b>◉ BlogForge — Agentic Blog Writer (LangGraph)</b></summary>
+
+<br/>
+
+A Streamlit and LangGraph workflow that decides when research is needed, then plans, writes, reviews, and conditionally revises technical blog posts.
+
+| Attribute | Details |
+|:---|:---|
+| **Stack** | LangGraph · Gemini · Tavily Search · Pydantic · Streamlit |
+| **Workflow** | Research-or-closed-book routing → typed blog plan → draft → review → bounded revision loop |
+| **Features** | Pydantic structured outputs · live workflow progress · source previews · Markdown download |
+| **Live Demo** | [![Live](https://img.shields.io/badge/Live-Demo-22c55e?style=flat-square&logo=streamlit&logoColor=white)](https://agentic-ai-blog-writer-7.streamlit.app/) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-6A0DAD?style=flat-square&logo=github)](https://github.com/Div7anshKushwaha/blog-writing-agent) |
+
+<br/>
+
+</details>
+
+## ◈ More Projects
+
 <details>
 <summary><b>◉ ML Pipeline with DVC — Reproducible Training Pipeline</b></summary>
 
@@ -138,24 +185,6 @@ A 5-stage reproducible pipeline built to learn DVC fundamentals before taking th
 | **Stack** | Python · DVC · Scikit-learn · Gradient Boosting · Git · Cookiecutter |
 | **Features** | `params.yaml` configuration · `metrics.json` tracking · `dvc exp run/diff/apply` workflow |
 | **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-6A0DAD?style=flat-square&logo=github)](https://github.com/Div7anshKushwaha/ML-Pipeline-DVC) |
-
-<br/>
-
-</details>
-
-<details>
-<summary><b>◉ YouTube RAG Chatbot — GenAI Project</b></summary>
-
-<br/>
-
-A Retrieval Augmented Generation system that answers questions from YouTube video content, built entirely on free-tier components — Groq API + HuggingFace embeddings. Currently being upgraded with RAGAS evaluation ahead of deployment.
-
-| Attribute | Details |
-|:---|:---|
-| **Stack** | LangChain · ChromaDB · HuggingFace Embeddings · Groq (Llama 3) · Streamlit |
-| **RAG Features** | Contextual Compression · Multi-query Generation · MMR Retrieval |
-| **Status** | Built and running locally · RAGAS evaluation and HuggingFace Spaces deployment in progress |
-| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-6A0DAD?style=flat-square&logo=github)](https://github.com/Div7anshKushwaha) |
 
 <br/>
 
@@ -235,19 +264,31 @@ Structured implementation of every major ML algorithm — from mathematical foun
 
 ---
 
-## ◈ Achievements
+## ◈ Education & Certifications
+
+<div align="center">
+
+| | Details |
+|:---:|:---|
+| **IIT Madras — BS in Data Science & Applications** | Foundation Level completed; Diploma Level in progress (completed PDSA, DBMS, MLF, MAD I, BDM, MLT; currently MLP, MAD II) |
+| **Foundational Level in Programming and Data Science** | IIT Madras · Dec 2025 · [Verify](https://ds.study.iitm.ac.in/document_verification/b77fcba4dff1042f17fc02e7a5f66f6236d0d269c5d61be9021008dfda98f6e1) |
+| **Python with Data Science and MySQL (Bootcamp)** | Sheryians Coding School · Nov 2025 – Jul 2026 · [Verify](https://sheryians.com/certificates/verify/9fa79c44-1d8e-4125-b2e0-2d631e3610ed) |
+
+</div>
+
+---
+
+## ◈ Highlights
 
 <div align="center">
 
 | Recognition | Details |
 |:---:|:---|
-| **MLOps — Live, Automated Deployment** | DVC + MLflow + Docker + GitHub Actions CI/CD, auto-deploying to AWS EC2 on every push |
-| **IIT Madras Foundation Level — Completed** | All 8 Foundation courses: Maths I & II, Statistics I & II, Python, Computational Thinking, English I & II |
-| **IIT Madras Diploma Level — In Progress** | Completed PDSA, DBMS, MLF, MAD I, BDM, MLT; currently MLP, MAD II |
-| **Agentic AI — Complete** | LangGraph workflows, HITL, Memory, MCP, CRAG, Self-RAG, Blog Writing Agent |
-| **GenAI using LangChain — Complete** | RAG pipelines, embeddings, agents, tool calling, LangSmith observability |
-| **Complete ML Repository** | 18 folders, 35+ algorithms implemented from scratch |
-| **Live Deployed Projects** | Emotion Detection MLOps (AWS EC2) · Laptop Price Predictor (Streamlit) · Bank System (Render) |
+| **Live, automated MLOps deployment** | DVC + MLflow + Docker + GitHub Actions CI/CD, auto-deploying to AWS EC2 on every push |
+| **Three deployed AI projects** | Emotion Detection MLOps (AWS EC2) · AI Video & Meeting Assistant (Streamlit) · BlogForge agent (Streamlit) |
+| **Agentic AI with LangGraph** | Completed LangGraph workflows, human-in-the-loop, and memory; built and deployed BlogForge |
+| **GenAI with LangChain** | RAG pipelines, embeddings, agents, and tool calling |
+| **Complete ML repository** | 18 folders, 35+ algorithms implemented from scratch |
 
 </div>
 
@@ -310,26 +351,26 @@ Structured implementation of every major ML algorithm — from mathematical foun
 current_focus:
   completed:
     - "Classical ML — 35+ algorithms from scratch ✅"
-    - "Deep Learning — Transformers, Attention ✅"
-    - "GenAI using LangChain — RAG, Agents, Tool Calling ✅"
-    - "Agentic AI using LangGraph — complete ✅"
+    - "GenAI with LangChain — RAG, embeddings, agents, tool calling ✅"
+    - "Agentic AI with LangGraph — workflows, HITL, memory ✅"
     - "MLOps — DVC, MLflow, Docker, GitHub Actions CI/CD, live on AWS EC2 ✅"
-    - "FastAPI for ML ✅"
+    - "AI Video & Meeting Assistant — multilingual RAG app ✅"
+    - "BlogForge — LangGraph blog-writing agent ✅"
 
   building:
-    - "MCP Protocol — remaining 'How' section (local/remote servers, clients)"
-    - "Advanced RAG Chatbot — adding RAGAS evaluation + HuggingFace Spaces deployment"
+    - "RAG evaluation (RAGAS) for the AI Video & Meeting Assistant"
+    - "MCP Protocol — local and remote servers, clients"
     - "Real Estate Price Predictor — Streamlit deployment"
-    - "Blog Writing Agent — LangGraph agentic project"
 
   next:
-    - "Interview preparation — DSA + ML/GenAI system design"
-    - "Fine-Tuning Transformers — GPT/BERT on HuggingFace"
-    - "LLM Evaluation — RAGAS + G-Eval + LLM-as-a-Judge"
+    - "Interview preparation — DSA + ML/GenAI fundamentals"
+    - "An agentic project with a measured evaluation set"
+    - "Fine-tuning Transformers (BERT / GPT) on HuggingFace"
+    - "Advanced RAG — CRAG, Self-RAG; LLM observability with LangSmith"
 
   open_to:
-    - "AI Engineer · GenAI Developer · MLOps Engineer · LLM Engineer"
-    - "Full Time · Internship · Remote · Hybrid · Pan-India"
+    - "AI/ML Intern · GenAI Developer · MLOps · LLM Engineer"
+    - "Internship · Full Time · Remote · Hybrid · Pan-India"
 ```
 
 ---
@@ -344,7 +385,7 @@ current_focus:
 
 </div>
 
---
+---
 
 <div align="center">
 
