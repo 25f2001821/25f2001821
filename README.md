@@ -45,7 +45,7 @@ I am an AI Engineer in the making — currently pursuing a **BS in Data Science 
 
 My engineering philosophy is rooted in building **systems that leave the notebook** — not just training a model, but making it reproducible, testable, containerized, and deployable. I approach every project with a product mindset: who uses this, why it matters, and how it performs under real-world conditions.
 
-I recently shipped an end-to-end MLOps pipeline — **DVC → MLflow → Docker → GitHub Actions CI/CD → AWS EC2** — that automatically reproduces, tests, promotes, and redeploys a model on every push. Alongside that, I've built and deployed a multilingual **RAG meeting assistant** (Whisper / Sarvam AI, Groq, LangChain, ChromaDB) and a **LangGraph blog-writing agent**, and I'm now learning advanced RAG evaluation (CRAG, Self-RAG, RAGAS), MCP, and LLM observability with LangSmith.
+I recently shipped an end-to-end MLOps pipeline — **DVC → MLflow → Docker → GitHub Actions CI/CD → AWS EC2** — that automatically reproduces, tests, promotes, and redeploys a model on every push. Alongside that, I've built and deployed a multilingual **RAG meeting assistant** (Whisper / Sarvam AI, Groq, LangChain, ChromaDB) and a **LangGraph blog-writing agent**, and I've worked through agentic RAG patterns (CRAG, Self-RAG), the Model Context Protocol, and LLM observability with LangSmith — now adding RAGAS evaluation.
 
 <br/>
 
@@ -63,27 +63,27 @@ Internship  ·  Full Time  ·  Remote  ·  Hybrid  ·  Bhopal  ·  Pan-India
 <div align="center">
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=python,bash,markdown&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=py,bash,md&theme=dark)](https://skillicons.dev)
 
 ### Frontend
 [![Frontend](https://skillicons.dev/icons?i=html,css,js,vue&theme=dark)](https://skillicons.dev)
 
 ### Backend & Databases
-[![Backend](https://skillicons.dev/icons?i=fastapi,postgres&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=fastapi,flask,postgres,mysql&theme=dark)](https://skillicons.dev)
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square)
 
 ### ML, Deep Learning & GenAI
-[![ML](https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark)](https://skillicons.dev)
+[![ML](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark)](https://skillicons.dev)
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-E5A500?style=flat-square&logo=huggingface&logoColor=black)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-E5A500?style=flat-square&logo=huggingface&logoColor=black)
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-2E6F6F?style=flat-square) ![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white) ![Sarvam AI](https://img.shields.io/badge/Sarvam_AI-F97316?style=flat-square) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-2E6F6F?style=flat-square) ![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white) ![Sarvam AI](https://img.shields.io/badge/Sarvam_AI-F97316?style=flat-square) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white) ![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square)
 
 ### MLOps, Cloud & Tooling
-[![DevOps](https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,linux,vscode,jupyter&theme=dark)](https://skillicons.dev)
+[![DevOps](https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,linux,vscode&theme=dark)](https://skillicons.dev)
 
-![DVC](https://img.shields.io/badge/DVC-13ADC7?style=flat-square&logo=dvc&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) ![DagsHub](https://img.shields.io/badge/DagsHub-00A88F?style=flat-square)
+![DVC](https://img.shields.io/badge/DVC-13ADC7?style=flat-square&logo=dvc&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) ![DagsHub](https://img.shields.io/badge/DagsHub-00A88F?style=flat-square) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 </div>
 
@@ -101,9 +101,9 @@ Internship  ·  Full Time  ·  Remote  ·  Hybrid  ·  Bhopal  ·  Pan-India
 | Agentic AI | █████████░░ Proficient | LangGraph, Sequential/Parallel/Conditional/Iterative Workflows, HITL, Memory, Tool-Use |
 | MLOps & Deployment | ██████████░ Proficient | DVC, MLflow, DagsHub, Docker, GitHub Actions CI/CD, AWS S3/EC2, Model Registry & Promotion |
 | Speech & Multilingual AI | █████████░░ Proficient | Whisper (local, CUDA), Sarvam AI (Hindi/Hinglish), FFmpeg audio processing |
-| MCP Protocol | ████████░░░ Developing | Model Context Protocol — Architecture, Local/Remote Servers, MCP Clients |
-| Advanced RAG | ████████░░░ Developing | CRAG (Corrective RAG), Self-RAG, RAG using LangGraph, RAGAS Evaluation |
-| LLM Observability | ████████░░░ Developing | LangSmith — Tracing, Monitoring, Agent Debugging, Evaluation |
+| MCP Protocol | █████████░░ Proficient | Model Context Protocol — Architecture, Local/Remote Servers, MCP Clients |
+| Advanced RAG | █████████░░ Proficient | CRAG (Corrective RAG), Self-RAG, RAG using LangGraph · RAGAS Evaluation (in progress) |
+| LLM Observability | █████████░░ Proficient | LangSmith — Tracing, Monitoring, Agent Debugging, Evaluation |
 | Unsupervised Learning | ███████████ Expert | KMeans, DBSCAN, GMM, Hierarchical Clustering, t-SNE |
 | Data Engineering | ██████████░ Advanced | Pandas, NumPy, Feature Engineering, EDA, Imbalanced Data |
 | SQL & Analytics | ███████████ Expert | Window Functions, CTEs, Correlated Subqueries, psycopg2, PostgreSQL |
@@ -277,8 +277,8 @@ Structured implementation of every major ML algorithm — from mathematical foun
 | **IIT Madras Foundation Level — Completed** | All 8 Foundation courses: Maths I & II, Statistics I & II, Python, Computational Thinking, English I & II · [Verify certificate](https://ds.study.iitm.ac.in/document_verification/b77fcba4dff1042f17fc02e7a5f66f6236d0d269c5d61be9021008dfda98f6e1) |
 | **IIT Madras Diploma Level — In Progress** | Completed PDSA, DBMS, MLF, MAD I, BDM, MLT; currently MLP, MAD II |
 | **Python with Data Science and MySQL — Bootcamp** | Sheryians Coding School · Nov 2025 – Jul 2026 · [Verify certificate](https://sheryians.com/certificates/verify/9fa79c44-1d8e-4125-b2e0-2d631e3610ed) |
-| **Agentic AI with LangGraph** | Workflows, HITL, Memory — built and deployed the BlogForge agent |
-| **GenAI using LangChain** | RAG pipelines, embeddings, agents, tool calling |
+| **Agentic AI with LangGraph** | Workflows, HITL, Memory, MCP, CRAG, Self-RAG — built and deployed the BlogForge agent |
+| **GenAI using LangChain** | RAG pipelines, embeddings, agents, tool calling, LangSmith observability |
 | **Complete ML Repository** | 18 folders, 35+ algorithms implemented from scratch |
 | **Live Deployed Projects** | Emotion Detection MLOps (AWS EC2) · AI Video & Meeting Assistant (Streamlit) · BlogForge (Streamlit) · Laptop Price Predictor (Streamlit) · Bank System (Render) |
 
@@ -290,14 +290,14 @@ Structured implementation of every major ML algorithm — from mathematical foun
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=25f2001821&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=8B5CF6&icon_color=7C3AED&text_color=C4B5FD&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=25f2001821&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=8B5CF6&icon_color=7C3AED&text_color=C4B5FD" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=25f2001821&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=8B5CF6&text_color=C4B5FD&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=25f2001821&theme=midnight-purple&hide_border=true&background=0D0D0D&ring=8B5CF6&fire=7C3AED&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=6B7280&currStreakNum=8B5CF6&sideNums=8B5CF6" width="60%" />
+<img src="https://streak-stats.demolab.com?user=25f2001821&theme=midnight-purple&hide_border=true&background=0D0D0D&ring=8B5CF6&fire=7C3AED&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=6B7280&currStreakNum=8B5CF6&sideNums=8B5CF6" width="60%" />
 
 </div>
 
@@ -345,7 +345,9 @@ current_focus:
     - "Classical ML — 35+ algorithms from scratch ✅"
     - "Deep Learning — coursework on Transformers, Attention ✅"
     - "GenAI using LangChain — RAG, Agents, Tool Calling ✅"
-    - "Agentic AI using LangGraph — workflows, HITL, memory ✅"
+    - "Agentic AI using LangGraph — workflows, HITL, memory, CRAG, Self-RAG ✅"
+    - "MCP Protocol — architecture, local/remote servers, clients ✅"
+    - "LLM observability with LangSmith ✅"
     - "MLOps — DVC, MLflow, Docker, GitHub Actions CI/CD, live on AWS EC2 ✅"
     - "AI Video & Meeting Assistant — multilingual RAG app, live ✅"
     - "BlogForge — LangGraph blog-writing agent, live ✅"
@@ -353,14 +355,13 @@ current_focus:
 
   building:
     - "RAG evaluation (RAGAS) for the AI Video & Meeting Assistant"
-    - "MCP Protocol — remaining 'How' section (local/remote servers, clients)"
     - "Real Estate Price Predictor — Streamlit deployment"
 
   next:
     - "Interview preparation — DSA + ML/GenAI fundamentals"
     - "An agentic project with a measured evaluation set"
     - "Fine-Tuning Transformers — GPT/BERT on HuggingFace"
-    - "Advanced RAG (CRAG, Self-RAG) + LLM observability with LangSmith"
+    - "LLM Evaluation — G-Eval + LLM-as-a-Judge"
 
   open_to:
     - "AI Engineer · GenAI Developer · MLOps Engineer · LLM Engineer"
